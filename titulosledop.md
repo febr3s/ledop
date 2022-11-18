@@ -4,7 +4,7 @@ In the programmed version the works will be presented on a virtual shelf with co
 
 ![morel sample](morel-sample.gif)
 
-Looking at this list may raise several doubts. Some of them are clarified in the [LEDoP Questions](qa) section ([click here to go there](qa)).
+Looking at this list may raise several doubts. Some of them are clarified in the [LEDoP Questions](/qa) section ([click here to go there](qa)).
 
 |Título                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |Referenciado en                                                              |Agregado por                                              |
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------|----------------------------------------------------------|
