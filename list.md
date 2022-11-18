@@ -1,10 +1,13 @@
+---
+title: list
+---
 This is a list of some of the public domain works that will be part of LEDoP. The "Referenciado en" and "Agregado por" columns indicate the book(s) and professor(s) who include them in their bibliographies. The names of the works and the professors have links to the book on the Notre Dame Faculty Bookshelf, or to the professor's page at the university. 
 
 In the programmed version the works will be presented on a virtual shelf with cover and download link. In LEDoP the works will be browsable through their metatadata, as in the model library, morel.la, but including the new "referenced in" and "added by" fields.
 
 ![morel sample](morel-sample.gif)
 
-Looking at this list may raise several doubts. Some of them are clarified in the [LEDoP Questions](/qa) section ([click here to go there](qa)).
+Looking at this list may raise several doubts. Some of them are clarified in the [LEDoP Questions](https://febr3s.github.io/ledop/qa.html) section ([click here to go there](https://febr3s.github.io/ledop/qa.html)).
 
 |Título                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |Referenciado en                                                              |Agregado por                                              |
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------|----------------------------------------------------------|
