@@ -1,3 +1,6 @@
+---
+title: list
+---
 # What was the criteria for the sample selection?
 
 The sample titles were extracted from the bibliographies of the books I found in Faculty Bookshelf and that were available for immediate consultation in digital format.
