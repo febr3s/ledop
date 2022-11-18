@@ -1,5 +1,5 @@
 ---
-title: list
+title: q & a
 ---
 # What was the criteria for the sample selection?
 
