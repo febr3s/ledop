@@ -5,7 +5,7 @@ This is a list of some of the public domain works that will be part of LEDoP. Th
 
 In the programmed version the works will be presented on a virtual shelf with cover and download link. In LEDoP the works will be browsable through their metatadata, as in the model library, morel.la, but including the new "referenced in" and "added by" fields.
 
-<video width="400" controls>
+<video width="400" autoplay loop>
   <source src="demo-morel-ledop.mp4" type="video/mp4">
   Your browser does not support HTML video.
 </video>
