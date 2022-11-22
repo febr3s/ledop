@@ -1,5 +1,5 @@
 ---
-title: list
+title: sample list
 ---
 This is a list of some of the public domain works that will be part of LEDoP. The "Referenciado en" and "Agregado por" columns indicate the book(s) and professor(s) who include them in their bibliographies. The names of the works and the professors have links to the book on the Notre Dame Faculty Bookshelf, or to the professor's page at the university. 
 
